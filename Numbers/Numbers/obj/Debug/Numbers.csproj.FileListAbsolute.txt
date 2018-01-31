@@ -1,0 +1,6 @@
+C:\Users\nightblade\Desktop\Numbers\Numbers\bin\Debug\Numbers.exe.config
+C:\Users\nightblade\Desktop\Numbers\Numbers\bin\Debug\Numbers.exe
+C:\Users\nightblade\Desktop\Numbers\Numbers\bin\Debug\Numbers.pdb
+C:\Users\nightblade\Desktop\Numbers\Numbers\obj\Debug\Numbers.csprojResolveAssemblyReference.cache
+C:\Users\nightblade\Desktop\Numbers\Numbers\obj\Debug\Numbers.exe
+C:\Users\nightblade\Desktop\Numbers\Numbers\obj\Debug\Numbers.pdb
